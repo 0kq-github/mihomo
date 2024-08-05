@@ -1,6 +1,9 @@
 __pycache__
 venv
 .venv
+StarrailImageGen
+test_*.py
+
 build
 mihomo.egg-info
 *.ipynb
