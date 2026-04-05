@@ -81,7 +81,7 @@ class Trace(BaseModel):
     """The simple description of the trace"""
     desc: str
     """The detailed description of the trace"""
-    icon: str
+    icon: str | None
     """The trace icon"""
 
 
